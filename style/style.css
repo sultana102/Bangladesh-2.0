@@ -101,7 +101,7 @@ body {
     gap: 16px;
 }
 
-#hero .text1 {
+#hero .header {
     color: rgba(14, 14, 14, 0.5);
     font-family: Fira Sans;
     font-size: 24px;
